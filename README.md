@@ -2,7 +2,7 @@
 
 **Backend and machine learning engineer.** I build systems that run in production and the measurements that prove they work.
 
-M.S. Electrical Engineering, George Washington University (GPA 3.97). B.S. Computer Science, KAIST.
+M.S. Electrical Engineering, George Washington University. B.S. Computer Science, KAIST.
 Washington, D.C. area.
 
 [Portfolio](https://ribka-portfolio.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ribka-tiruneh) &nbsp;·&nbsp; ribkatiruneh59@gmail.com
